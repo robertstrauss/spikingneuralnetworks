@@ -1,0 +1,3 @@
+red: no noise
+grey: 0.1% noise
+both: model: 34x34x2_c5_6_p4_c3_12_p4_c3_12_dense_10

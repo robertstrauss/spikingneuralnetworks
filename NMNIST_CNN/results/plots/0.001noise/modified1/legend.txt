@@ -1,0 +1,3 @@
+blue: no noise
+cyan: 0.1% noise
+both: model: 34x34x2_c5_6_p2_c3_12_p2_c3_12_dense_10

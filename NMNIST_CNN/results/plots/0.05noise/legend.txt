@@ -1,0 +1,3 @@
+orange: 2->c5->16->c3->32->c3->64->p2->p2->dense
+blue: 2->c5->6->c3->12->p4->dense
+produced by nmnistCNN_edited-noise at 5% noise on Dec 6-7

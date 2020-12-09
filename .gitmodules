@@ -1,0 +1,3 @@
+[submodule "NMNIST_CNN/code/slayerPytorch"]
+	path = NMNIST_CNN/code/slayerPytorch
+	url = https://github.com/bamsumit/slayerPytorch

@@ -1,0 +1,4 @@
+red (model 1): 2_c5_6_c3_12_p4_12_dense
+blue (model 2): 2_c5_4_c3_8_p4_dense
+pink (model 3): 2_c5_6_c3_12_p8_dense
+green (model 4): 2_c5_6_c3_12_c3_10_p32_10_dense

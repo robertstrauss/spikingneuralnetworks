@@ -1,0 +1,3 @@
+orange: no noise
+pink: 0.1% noise
+both: model: 34x34x2_c5_16_p2_c3_32_p2_c3_64_dense_10
