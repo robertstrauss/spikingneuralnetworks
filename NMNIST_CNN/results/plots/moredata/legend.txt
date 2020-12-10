@@ -1,0 +1,6 @@
+originalmodel: testing accuracy over time
+    orange: trained on original (small) dataset
+    blue: trained on new (larger) dataset
+model1: testing accuracy over time
+    blue: trained on original (small) dataset
+    pink: trained on new (larger) dataset

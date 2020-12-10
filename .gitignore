@@ -1,2 +1,5 @@
 NMNIST_CNN/data/NMNISTsmall
-NMNIST_CNN/.ipynb_checkpoints
+NMNIST_CNN/data/NMNIST/Test
+NMNIST_CNN/data/NMNIST/Train
+NMNIST_CNN/data/NMNIST/Test.zip
+NMNIST_CNN/data/NMNIST/Train.zip
