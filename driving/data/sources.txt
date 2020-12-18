@@ -1,1 +1,0 @@
-training/Ch2_002 - udacity self driving - https://github.com/udacity/self-driving-car/tree/master/datasets/CH2
